@@ -64,7 +64,7 @@ Two return mapping algorithms for SMA thermo-mechanical model implementation:
 
 ## Results
 
-The ANN model (Henrickson et al., 2013), trained on **428 specimens** via the Taguchi method, achieved:
+The ANN model, trained on **428 specimens** via the Taguchi method, achieved:
 
 - **87%** accuracy for transformation temperature identification
 - **73%** accuracy for stress influence coefficient identification
